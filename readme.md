@@ -57,6 +57,7 @@
 
 - [prescottprue/fireadmin](https://github.com/prescottprue/fireadmin) - Application for Managing Firebase App including support for multiple environments and data migrations.
 - [Chat SDK](https://chatsdk.co/) - A fully featured open source messaging framework for iOS and Android.
+- [Firestore Query Browser](https://github.com/rechenberger/firestore-query-browser) - GUI for querying, creating, editing & deleting documents in single or batch mode.
 
 
 ## Unsupported(Only RTDB is Supported)
